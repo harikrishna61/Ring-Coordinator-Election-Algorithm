@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: harikrishna,bathala
-ID :1001415489
+
 """
 
 # -*- coding: utf-8 -*-
